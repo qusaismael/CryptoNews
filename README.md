@@ -2,6 +2,10 @@
 
 This Raycast extension provides a unified feed of cryptocurrency news from multiple popular sources.
 
+![image](https://github.com/user-attachments/assets/620a3653-8b3f-461a-a8d7-3ee527869b1f)
+![image](https://github.com/user-attachments/assets/16a2f791-55ae-4412-8923-64212089e66a)
+![image](https://github.com/user-attachments/assets/5e79d702-d279-4dca-ace8-e8783081604c)
+
 ## Features
 
 - View news from multiple cryptocurrency news sources
